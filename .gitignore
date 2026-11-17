@@ -1,0 +1,10 @@
+.DS_Store
+
+/bin/
+/ui/node_modules/
+/ui/dist/
+*.transcode/
+
+/ui/test-results/
+/ui/playwright-report/
+/ui/*.tsbuildinfo
